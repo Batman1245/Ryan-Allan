@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Ryan Allan
 
-**`Desenvolvedor**
+**`Desenvolvedor`**
 
 Me chamo Ryan Allan, tenho 17 anos e moro em São Paulo. Atualmente, estou cursando o ensino médio e ainda não faço faculdade. Sou apaixonado por tecnologia e estou sempre estudando para aprender mais sobre programação.
 
